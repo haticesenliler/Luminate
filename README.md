@@ -1,3 +1,5 @@
-# Luminate
+Meet Resumate, your AI-powered job search assistant! Resumate analyzes job descriptions and your resume to pinpoint missing skills and provides personalized recommendations to boost your chances of landing interviews.
 
-Luminate is here to help learners overcome reading challenges by providing simple, personalized tools and resources that make reading easier and more enjoyable. We aim to shine a light on each learner’s unique needs, helping them build confidence and skills at their own pace. With Luminate, reading struggles become a thing of the past, empowering learners to succeed and grow.
+But that’s not all—if you're job hunting in Philadelphia, Resumate curates local job listings and even helps tailor your cover letters to match employer expectations. Whether you’re a recent grad or a seasoned professional, Resumate gives you the edge you need to stand out and succeed.
+
+Land more interviews. Get hired faster. Try Resumate today!

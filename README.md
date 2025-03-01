@@ -1,3 +1,4 @@
 # Resumate
 
-Luminate aims to assist a distinct group of people in overcoming their reading difficulties by offering straightforward, individualized tools and resources that make reading more pleasurable and easier. Our goal is to highlight the individual needs of people, enabling them to develop their abilities and confidence at their speed. Reading challenges are eliminated with Luminate.
+Resumate is an AI tool that analyzes resumes and job descriptions to identify skill gaps. It provides personalized recommendations to help candidates improve their resumes and match job requirements. Plus, it offers job descriptions for positions in Philadelphia, making it easier for local job seekers to find opportunities and tailor their resumes accordingly.
+

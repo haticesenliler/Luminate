@@ -1,3 +1,3 @@
 # Luminate
 
-Luminate is here to help learners overcome reading challenges by providing simple, personalized tools and resources that make reading easier and more enjoyable. We aim to shine a light on each learner’s unique needs, helping them build confidence and skills at their own pace. With Luminate, reading struggles become a thing of the past, empowering learners to succeed and grow.
+Luminate aims to assist a distinct group of people in overcoming their reading difficulties by offering straightforward, individualized tools and resources that make reading more pleasurable and easier. Our goal is to highlight the individual needs of people, enabling them to develop their abilities and confidence at their speed. Reading challenges are eliminated with Luminate.
